@@ -1,0 +1,6 @@
+C:\Users\jhass\AppData\Local\Temporary Projects\Practica_metodos1\bin\Debug\Practica_metodos1.exe.config
+C:\Users\jhass\AppData\Local\Temporary Projects\Practica_metodos1\bin\Debug\Practica_metodos1.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\Practica_metodos1\bin\Debug\Practica_metodos1.pdb
+C:\Users\jhass\AppData\Local\Temporary Projects\Practica_metodos1\obj\Debug\Practica_metodos1.csprojResolveAssemblyReference.cache
+C:\Users\jhass\AppData\Local\Temporary Projects\Practica_metodos1\obj\Debug\Practica_metodos1.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\Practica_metodos1\obj\Debug\Practica_metodos1.pdb
